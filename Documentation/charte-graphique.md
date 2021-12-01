@@ -2,7 +2,7 @@
 
 1) Logo  
 
-![Logo2](./Users/LEFEBVRE Dylan/OneDrive - CCI Campus Alsace/Bureau/Portfolio/Logo2.png)
+![Logo2](./Bureau/Portfolio/Logo2.png)
 
 
 
