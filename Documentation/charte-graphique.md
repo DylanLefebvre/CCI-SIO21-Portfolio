@@ -2,7 +2,7 @@
 
 1) Logo  
 
-![Logo2](./Users/LEFEBVRE Dylan/CCi cours/CCI-SIO21-Portfolio/Documentation/Logo2.jpg)
+![Logo2.jpg](./Logo2.jpg)
 
 
 
