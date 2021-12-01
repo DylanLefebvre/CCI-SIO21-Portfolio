@@ -28,7 +28,7 @@ Vert : 31,160,85 #1FA055
 
 Vert : 56,111,72 #386F48 
 
-![palette de couleur.jpg](./palette de couleur.jpg)
+![palette-de-couleur.jpg](./palette-de-couleur.jpg)
 
 4) Icône utilisée  
 
@@ -60,7 +60,7 @@ Cette image, libre de droit seras utilisé dans le menu principal du portfolio
 
 6) Squelette portfolio
 
-![squelette site.jpg](./squelette site.jpg)
+![squelette-site.jpg](./squelette-site.jpg)
 
 
 
