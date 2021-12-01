@@ -2,7 +2,7 @@
 
 1) Logo  
 
-![Logo2](./Bureau/Portfolio/Logo2.png)
+![Logo2](./Portfolio/Logo2.png)
 
 
 
