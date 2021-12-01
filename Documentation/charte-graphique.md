@@ -1,4 +1,4 @@
-﻿﻿﻿Charte Graphique  
+﻿﻿﻿﻿Charte Graphique  
 
 1) Logo  
 
@@ -60,25 +60,29 @@ Cette image, libre de droit seras utilisé dans le menu principal du portfolio
 
 6) Squelette portfolio
 
-page d'entré sur le portfolio
 
 
 
 
-
-
-
-
-
-
-
-
+page acceuil
 
 ![squelette-site.jpg](./squelette-site.jpg)
 
+(Page BTS SIO)
 
+![page-bts-sio.jpg](./page-bts-sio.jpg)
 
+(page compétence)
 
+![compétence.jpg](./compétence.jpg)
+
+(page cv)
+
+![CV.jpg](./CV.jpg)
+
+(page contact)
+
+![contact.jpg](./contact.jpg)
 
 
 
@@ -93,3 +97,4 @@ Bts Sio = je vais présenter la formation du bts sio puis le décomposer en fonc
 Compétence = je vais présenter mes compétence (encore minime) en fonction des options slam/sisr Cv = je vais joindre mon Cv  
 
 Contact = je vais mon adresse mail « pro » et le lien linkedin. 
+
