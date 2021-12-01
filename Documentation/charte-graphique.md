@@ -2,7 +2,9 @@
 
 1) Logo  
 
-![Logo2](C:/Users/LEFEBVRE Dylan/OneDrive - CCI Campus Alsace/Bureau/Portfolio/Logo2.png)
+![Logo2](./Users/LEFEBVRE Dylan/OneDrive - CCI Campus Alsace/Bureau/Portfolio/Logo2.png)
+
+
 
 Le logo Représentant un L imbriqué dans un D il seras de couleur blanc, couleur rvb : (254,254,254 #FEFEFE) 
 
