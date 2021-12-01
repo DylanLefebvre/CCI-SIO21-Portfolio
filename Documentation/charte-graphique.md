@@ -60,6 +60,20 @@ Cette image, libre de droit seras utilisé dans le menu principal du portfolio
 
 6) Squelette portfolio
 
+page d'entré sur le portfolio
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![squelette-site.jpg](./squelette-site.jpg)
 
 
