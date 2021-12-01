@@ -28,7 +28,7 @@ Vert : 31,160,85 #1FA055
 
 Vert : 56,111,72 #386F48 
 
-![image-20211201082540841.png](./image-20211201082540841.png)
+![palette de couleur.jpg](./palette de couleur.jpg)
 
 4) Icône utilisée  
 
@@ -36,7 +36,7 @@ Vert : 56,111,72 #386F48
 
 Le logo linkedin seras le seul utilisé puisque c’est un réseaux sociaux professionnel 
 
-![linkedin](C:/Users/LEFEBVRE Dylan/CCi cours/CCI-SIO21-Portfolio/Documentation/linkedin.png)
+![linkedin.png](./linkedin.png)
 
 
 
@@ -48,9 +48,9 @@ Cette image, libre de droit seras utilisé dans le menu principal du portfolio
 
 
 
-![programming-g5dbc9992e_1920](C:/Users/LEFEBVRE Dylan/CCi cours/CCI-SIO21-Portfolio/Documentation/programming-g5dbc9992e_1920.png)
 
 
+![programming-g5dbc9992e_1920.png](./programming-g5dbc9992e_1920.png)
 
 
 
@@ -60,7 +60,7 @@ Cette image, libre de droit seras utilisé dans le menu principal du portfolio
 
 6) Squelette portfolio
 
-![image-20211201082344194](C:/Users/LEFEBVRE Dylan/AppData/Roaming/Typora/typora-user-images/image-20211201082344194.png)
+![squelette site.jpg](./squelette site.jpg)
 
 
 
