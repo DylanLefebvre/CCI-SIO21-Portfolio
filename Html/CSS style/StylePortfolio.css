@@ -21,7 +21,7 @@
 #bande3{
     background-color: #fefefe;
     transform: rotate(20deg);
-    width: 100%;
+    width: 120%;
     height: 50px;
     position:relative;z-index: 10;
 }
