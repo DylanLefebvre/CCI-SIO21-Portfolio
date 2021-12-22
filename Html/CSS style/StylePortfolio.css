@@ -35,17 +35,21 @@
     margin-top: 28%;
     position: relative;z-index: 10;
 }
-
-.navbar{
-    height: 65px;
-    padding: 0;
-    margin: 0;
-    position: absolute;
-    transform: rotate(-180deg);
-    left: 70%;
-    font-size: 200%;
-    font-family:'brush script MT';
+a{
+    text-decoration: none;
     color: #fefefe;
+    justify-content: space-around;
+}
+li{
+    display: inline-block;
+    justify-content: space-around;
+    font-family: 'brush script mt';
+}
+.navbar{
+    color: #fefefe;
+    transform: rotate(-180deg);
+    font-size: 250%;
+    text-decoration: none;
 }
 @keyframes move {
     100% {
