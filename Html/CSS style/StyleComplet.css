@@ -2,13 +2,14 @@ body{margin: 0px;}
 #header{height: 180px;background: #87E990;text-align: center;}
 #image{background-attachment: fixed; position: relative;text-align: center;color: red;}
 .texte{position: absolute;}
-#footer{background: #1FA055;height: 180px;text-align: center;}
+#footer{background: #1FA055;height: 90px;text-align: center;}
 .rectangle{
     width: 50%;
     padding: 30% 0 0 0;
     background: #FEBFD2;
     margin-left: auto;
     margin-right: auto;
+	font-family: 'amasis mt pro';
 }
 .texteR{
     position: absolute !important;
