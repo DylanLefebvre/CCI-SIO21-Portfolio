@@ -1,3 +1,12 @@
+#img{
+    width: 600px;
+    height: 675px;
+    margin-left: 340px;
+    position: relative;z-index: 10;
+}
+
+
+
 @keyframes move {
     100% {
         transform: translate3d(0, 0, 1px) rotate(360deg);
