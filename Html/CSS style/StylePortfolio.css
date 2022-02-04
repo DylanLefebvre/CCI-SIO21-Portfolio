@@ -1,7 +1,13 @@
+html{
+    font-size: 10px;
+}
 #logo{
     margin-top: 20%;
     margin-left: 45%;
     position: relative;z-index: 10;
+    font-size: 3rem;
+    padding: 1rem;
+
 }
 #bande{
     background-color: #FEBFD2;;
@@ -18,6 +24,7 @@
     height: 50px;
     padding: 0%;
     margin: 0%;
+    
 }
 #bande3{
     background-color: #fefefe;
@@ -34,6 +41,7 @@
     height: 80px;
     margin-top: 28%;
     position: relative;z-index: 10;
+    
 }
 a{
     text-decoration: none;
@@ -44,6 +52,7 @@ li{
     display: inline-block;
     justify-content: space-around;
     font-family: 'brush script mt';
+    font-size: 45px;
 }
 .navbar{
     color: #fefefe;
