@@ -1,4 +1,4 @@
-﻿﻿﻿﻿Charte Graphique  
+﻿Charte Graphique  
 
 1) Logo  
 
@@ -98,3 +98,32 @@ Compétence = je vais présenter mes compétence (encore minime) en fonction des
 
 Contact = je vais mon adresse mail « pro » et le lien linkedin. 
 
+
+
+8. Modification du portfolio
+
+Au début du projet j'ai commencé a suivre la charte graphique. arrivé à mi-chemin du projet je suis passé par autre choses car n'étant pas satisfait de moi. puis au final je suis revenu sur mon idée d'origine que je vous présenterais le Mercredi 23/02/2022.
+
+(page accueil)
+
+![page accueil.png](./page accueil1.png)
+
+(page présentation)
+
+![présentation1.png](./présentation1.png)
+
+(page bts sio)
+
+![bts sio1.png](./bts sio1.png)
+
+(page compétence)
+
+![compétences1.png](./compétences1.png)
+
+(page cv)
+
+![CV1.png](./CV1.png)
+
+(page contact)
+
+![contact1.png](./contact1.png)

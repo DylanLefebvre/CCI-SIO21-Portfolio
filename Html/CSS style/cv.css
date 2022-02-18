@@ -1,0 +1,60 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'brush script mt';
+    font-size: 200%;
+}
+nav .logo img{
+    height: 40px;
+    width: 40px;
+}
+nav{
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+   
+    top: 0;
+    background-color:  rgb(135,233,144);
+    
+}
+nav ul{
+    text-align: center;
+    list-style-type: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li{
+    margin-left: 20px;
+    cursor: pointer;
+    display: inline-block;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: #fefefe;
+}
+.presentation-image{
+    margin-top: 5%;
+}
+.presentation-image img{
+    max-width: 50%;
+    height: auto;
+    margin-left: 25%;
+}
+.socialmedia{
+    color: darkcyan;
+    text-align: center;
+}
+footer{
+    margin-top: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #1fa055;
+    color: #386f48;
+    padding: 10px;
+    font-family: 'Amasis mt pro';
+}
